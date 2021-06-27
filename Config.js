@@ -6,6 +6,7 @@ require('@firebase/firestore')
 const firebaseConfig = {
   apiKey: "AIzaSyDnaQftXpFgvvfxyto3qn4X4wQfWOJ1gGI",
   authDomain: "class35-c1de5.firebaseapp.com",
+  databaseURL:"https://console.firebase.google.com/project/undefined/firestore/data/User%20Stories"
   projectId: "class35-c1de5",
   storageBucket: "class35-c1de5.appspot.com",
   messagingSenderId: "513892294714",
